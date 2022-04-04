@@ -1,7 +1,7 @@
 # Awesome Machine Learning Papers
 
 ## CNN
-- (ResNet) [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+- (ResNet) Deep Residual Learning for Image Recognition [paper](https://arxiv.org/abs/1512.03385)
 
 ## RNN
 - (GRU) [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
