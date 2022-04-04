@@ -1,14 +1,26 @@
 # Awesome Machine Learning Papers
 
-## Basic
+## CNN
+
+## RNN
+
+## Transformer
 - Transformer
 - ViT
-- AE
+- SwinTransformer
 
-## Generative
-- GAN
+## AE
+- AE
 - VAE
+
+## GAN
+- GAN
+
+## Normalizing Flow
 - Normalizing Flow
+- Glow
+
+## Diffusion
 - Diffusion
 
 ## 3DMM
@@ -20,6 +32,9 @@
 ## NeRF
 > Neural Radiance Field
 - Instant-NDP
+
+## SR
+> Super Resolution
 
 ## INR
 > Implicit Neural Representation
