@@ -2,8 +2,6 @@
 
 ## Contributing
 
-If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls). Feedback and contributions are welcome!
-
 markdown format:
 ``` markdown
 **Here is the Paper Name.**<br>
@@ -12,7 +10,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 ```
 
 ## CNN
-- (ResNet) Deep Residual Learning for Image Recognition [paper](https://arxiv.org/abs/1512.03385)
+- (ResNet) [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 ## RNN
 - (GRU) [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
