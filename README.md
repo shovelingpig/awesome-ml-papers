@@ -42,14 +42,14 @@
 - (DietNeRF) [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf)
 - [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html)
 
-## SR
-> Super Resolution
-
 ## INR
 > Implicit Neural Representation
 - (Functa) [From data to functa: Your data point is a function and you should treat it like one](https://arxiv.org/abs/2201.12204)
 
 ## Contrastive Learning
+
+## SR
+> Super Resolution
 
 ## Talking Head
 
