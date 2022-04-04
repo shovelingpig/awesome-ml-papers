@@ -11,15 +11,15 @@
 - Normalizing Flow
 - Diffusion
 
-## 3DMM (3D Morphable Model)
+## 3DMM(3D Morphable Model)
 - BFM
 - FLAME
 - SMPL
 
-## NeRF (Neural Radiance Field)
+## NeRF(Neural Radiance Field)
 - Instant-NDP
 
-## INR (Implicit Neural Representation)
+## INR(Implicit Neural Representation)
 - Functa
 
 ## Talking Head
