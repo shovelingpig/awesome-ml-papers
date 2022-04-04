@@ -47,6 +47,8 @@
 - (Functa) [From data to functa: Your data point is a function and you should treat it like one](https://arxiv.org/abs/2201.12204)
 
 ## Contrastive Learning
+- (SimCLR) [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+- (SimCLR2) [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
 
 ## SR
 > Super Resolution
