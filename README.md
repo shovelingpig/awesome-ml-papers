@@ -31,7 +31,7 @@
 
 ## NeRF
 > Neural Radiance Field
-- DietNeRF: [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf)
+- (DietNeRF) [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf)
 - Instant-NDP
 
 ## SR
