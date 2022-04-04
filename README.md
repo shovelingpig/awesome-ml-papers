@@ -21,6 +21,7 @@
 - (StyleGAN2) [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 - (StyleGAN2-Ada) [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)
 - (StyleGAN3) [Alias-Free Generative Adversarial Networks](https://nvlabs.github.io/stylegan3/) 
+- [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2](https://arxiv.org/abs/2112.14683)
 
 ## Flow
 - (Normalizing Flow) [Variational Inference with Normalizing Flows](https://ar5iv.labs.arxiv.org/html/1505.05770)
@@ -45,6 +46,9 @@
 ## INR
 > Implicit Neural Representation
 - (Functa) [From data to functa: Your data point is a function and you should treat it like one](https://arxiv.org/abs/2201.12204)
+
+## Representation Learning
+- [Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph](https://arxiv.org/abs/2202.12307)
 
 ## Contrastive Learning
 - (SimCLR) [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
