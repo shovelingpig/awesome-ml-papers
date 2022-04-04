@@ -22,7 +22,7 @@
 - (StyleGAN2-Ada) [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)
 - (StyleGAN3) [Alias-Free Generative Adversarial Networks](https://nvlabs.github.io/stylegan3/) 
 
-## Normalizing Flow
+## Flow
 - (Normalizing Flow) [Variational Inference with Normalizing Flows](https://ar5iv.labs.arxiv.org/html/1505.05770)
 - [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)
 
