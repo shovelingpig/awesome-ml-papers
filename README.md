@@ -1,48 +1,13 @@
 # Awesome Machine Learning Papers
 
-<details>
-<summary>Basic</summary>
-```
-CODE!
-```
-</details>
+## Basic
 
+## Generative
 
-<details>
-<summary>Generative</summary>
-- GAN
-- VAE
-- Diffusion
-</details>
+## 3DMM
 
+## NeRF
 
-<details>
-<summary>3DMM</summary>
-- BFM
-- FLAME
-- SMPL
-</details>
+## Talking Head
 
-
-<details>
-<summary>NeRF</summary>
-```
-CODE!
-```
-</details>
-
-
-<details>
-<summary>Talking Head</summary>
-```
-CODE!
-```
-</details>
-
-
-<details>
-<summary>Identity Swapping</summary>
-```
-CODE!
-```
-</details>
+## Identity Swapping
