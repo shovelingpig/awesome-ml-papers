@@ -1,5 +1,16 @@
 # Awesome Machine Learning Papers
 
+## Contributing
+
+If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/xiaweihao/awesome-image-translation/pulls). Feedback and contributions are welcome!
+
+markdown format:
+``` markdown
+**Here is the Paper Name.**<br>
+*[Author 1](homepage), Author 2, and Author 3.*<br>
+Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
+```
+
 ## CNN
 - (ResNet) Deep Residual Learning for Image Recognition [paper](https://arxiv.org/abs/1512.03385)
 
