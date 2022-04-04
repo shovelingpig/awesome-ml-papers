@@ -16,6 +16,11 @@
 
 ## GAN
 - (GAN) [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+- (ProgressiveGAN) [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
+- (StyleGAN) [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
+- (StyleGAN2) [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
+- (StyleGAN2-Ada) [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)
+- (StyleGAN3) [Alias-Free Generative Adversarial Networks](https://nvlabs.github.io/stylegan3/) 
 
 ## Normalizing Flow
 - (Normalizing Flow) [Variational Inference with Normalizing Flows](https://ar5iv.labs.arxiv.org/html/1505.05770)
