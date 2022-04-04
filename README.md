@@ -58,6 +58,7 @@
 - (STIT) [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://stitch-time.github.io/)
 
 ## Talking Head
+- (SAFA) [SAFA: Structure Aware Face Animation](https://arxiv.org/abs/2111.04928)
 
 ## Face Swapping
 - [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://arxiv.org/abs/2106.06340)
