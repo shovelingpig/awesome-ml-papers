@@ -43,9 +43,9 @@
 - (DietNeRF) [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf)
 - [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html)
 
-## INR
-> Implicit Neural Representation
-- (Functa) [From data to functa: Your data point is a function and you should treat it like one](https://arxiv.org/abs/2201.12204)
+## Normalization
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+- [Layer Normalization](https://arxiv.org/abs/1607.06450)
 
 ## Representation Learning
 - [Retriever: Learning Content-Style Representation as a Token-Level Bipartite Graph](https://arxiv.org/abs/2202.12307)
@@ -53,6 +53,10 @@
 ## Contrastive Learning
 - (SimCLR) [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
 - (SimCLR2) [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
+
+## INR
+> Implicit Neural Representation
+- (Functa) [From data to functa: Your data point is a function and you should treat it like one](https://arxiv.org/abs/2201.12204)
 
 ## SR
 > Super Resolution
