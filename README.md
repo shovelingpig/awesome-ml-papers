@@ -1,8 +1,10 @@
 # Awesome Machine Learning Papers
 
 ## CNN
+- (ResNet) [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 ## RNN
+- (GRU) [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
 
 ## Transformer
 - (Transformer) [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
@@ -10,37 +12,36 @@
 - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)
 
 ## AE
-- AE
-- VAE
+- (VAE) [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 
 ## GAN
-- GAN
+- (GAN) [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
 ## Normalizing Flow
-- Normalizing Flow
-- Glow
+- (Normalizing Flow) [Variational Inference with Normalizing Flows](https://ar5iv.labs.arxiv.org/html/1505.05770)
+- [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)
 
 ## Diffusion
-- Diffusion
+- (DDPM) [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233v4.pdf)
 
 ## 3DMM
 > 3D Morphable Model
-- BFM
-- FLAME
-- SMPL
+- (BFM) [Morphable Face Models - An Open Framework](https://arxiv.org/abs/1709.08398)
+- (FLAME) [Learning a model of facial shape and expression from 4D scans](https://ps.is.mpg.de/uploads_file/attachment/attachment/400/paper.pdf)
+- [SMPL: A Skinned Multi-Person Linear Model](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
 
 ## NeRF
 > Neural Radiance Field
 - (DietNeRF) [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://ajayj.com/dietnerf)
 - [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html)
-- Instant-NDP
+- (Instant-NDP) [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)
 
 ## SR
 > Super Resolution
 
 ## INR
 > Implicit Neural Representation
-- Functa
+- (Functa) [From data to functa: Your data point is a function and you should treat it like one](https://arxiv.org/abs/2201.12204)
 
 ## Contrastive Learning
 
