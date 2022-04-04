@@ -52,6 +52,10 @@
 
 ## SR
 > Super Resolution
+- (GPEN) [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070)
+
+## Facial Editting
+- (STIT) [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://stitch-time.github.io/)
 
 ## Talking Head
 
