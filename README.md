@@ -25,6 +25,8 @@
 > Implicit Neural Representation
 - Functa
 
+## Contrastive Learning
+
 ## Talking Head
 
 ## Identity Swapping
