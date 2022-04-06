@@ -74,6 +74,8 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 ## Face Recognition
 - [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
+- [CurricularFace: Adaptive Curriculum Learning Loss for Deep Face Recognition](https://arxiv.org/abs/2004.00288)
+- [GroupFace: Learning Latent Groups and Constructing Group-based Representations for Face Recognition](https://arxiv.org/abs/2005.10497)
 
 ## Facial Editting
 - (STIT) [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://stitch-time.github.io/)
