@@ -104,3 +104,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 - Smooth-Swap
 - FaceSwappingGAN
 - SberSwap
+
+## Background Editting
+- [Omnimatte: Associating Objects and Their Effects in Video](https://omnimatte.github.io/)
